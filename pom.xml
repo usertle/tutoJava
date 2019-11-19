@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <!-- Toujours utiliser 4.0.0 pour maven 3.x -->
+  <modelVersion>4.0.0</modelVersion>
+
+  <!-- groupId, artifactId et version actuelle -->
+  <groupId>org.wikibooks.fr</groupId>
+  <artifactId>projet-minimal</artifactId>
+  <version>1.0</version>
+
+  <!-- la façon dont sera packagée l'application -->
+  <packaging>jar</packaging>
+
+  <!-- un nom pour le projet -->
+  <name>Un projet d'exemple pour le tuto maven/jenkins/github </name>
+
+  <!-- l'adresse du site qui présente cette application 
+   <url>A compléter</url>
+  -->
+</project>
+
