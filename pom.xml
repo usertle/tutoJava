@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <!-- groupId, artifactId et version actuelle -->
-  <groupId>org.wikibooks.fr</groupId>
+  <groupId>org.tutoJavaMaven.fr</groupId>
   <artifactId>projet-minimal</artifactId>
   <version>1.0</version>
 
