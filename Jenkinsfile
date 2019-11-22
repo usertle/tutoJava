@@ -6,5 +6,5 @@ stages {
           sh '/usr/local/maven/bin/mvn clean install'
         }
     }
-
+}
 }
